@@ -50,3 +50,5 @@ Plug 'vim-airline/vim-airline-themes'
 call plug#end()
 
 autocmd vimenter * ++nested colorscheme gruvbox
+set number
+set relativenumber
